@@ -1,5 +1,3 @@
-# upload-s3-poc
-
 ## Referencias
 
 **[Upload Direto]** https://aws.amazon.com/pt/blogs/compute/uploading-to-amazon-s3-directly-from-a-web-or-mobile-application/ 
@@ -15,8 +13,6 @@ A seguir, vou apresentar as vantagens e desvantagens de cada abordagem:
 
   Uma URL de upload direta é um link temporário que permite que os usuários façam upload de arquivos diretamente para um bucket S3. Ao fornecer uma URL de upload direta para os usuários, você pode permitir que eles enviem arquivos para o S3 sem precisar de uma aplicação intermediária.
 
-#### Vantagens:
-
   **Simplicidade:** a URL de upload direta é uma opção simples e fácil para permitir que os usuários façam upload de arquivos para o S3.
 Escalabilidade: Como o upload é direto para o S3, ele pode lidar com grandes volumes de uploads sem a necessidade de escalar uma aplicação intermediária.
 Desvantagens:
@@ -25,7 +21,7 @@ Desvantagens:
 Limitações: A URL de upload direta pode não ter recursos avançados, como gerenciamento de metadados ou validação de arquivos, que podem ser necessários para alguns casos de uso.
 
 
-#### Aplicação intermediária:
+### Aplicação intermediária:
   
   Uma aplicação intermediária é uma aplicação personalizada que gerencia o processo de upload para o S3. Os usuários fazem upload de arquivos para essa aplicação, que, em seguida, faz o upload dos arquivos para o S3.
 Vantagens:
