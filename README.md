@@ -1,6 +1,7 @@
 ## Referencias
 
 **[Upload Direto]** https://aws.amazon.com/pt/blogs/compute/uploading-to-amazon-s3-directly-from-a-web-or-mobile-application/ 
+
 **[App Intermediário]** https://betterprogramming.pub/aws-s3-buckets-with-python-tutorial-uploading-deleting-and-managing-the-files-in-buckets-dd90d4fd45fe
 
 
