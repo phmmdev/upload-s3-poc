@@ -8,7 +8,7 @@
 
 **[Data Transfer, aprofundamento]** https://medium.com/@hatim.zahid/serialization-and-deserialization-how-data-travels-in-a-computer-network-13f61dc225c4 
 
-
+**[Processamento de arquivos grandes]** https://medium.com/swlh/processing-large-s3-files-with-aws-lambda-2c5840ae5c91
 
 A melhor abordagem para fazer upload de arquivos para o AWS S3 dependerá das suas necessidades específicas. Ambas as abordagens têm vantagens e desvantagens, e a escolha dependerá dos seus requisitos de segurança, escalabilidade e complexidade do processo de upload.
 
