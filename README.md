@@ -4,6 +4,8 @@
 
 **[App Intermediário]** https://betterprogramming.pub/aws-s3-buckets-with-python-tutorial-uploading-deleting-and-managing-the-files-in-buckets-dd90d4fd45fe
 
+**[Data Transfer, aprofundamento]** https://medium.com/@hatim.zahid/serialization-and-deserialization-how-data-travels-in-a-computer-network-13f61dc225c4 
+
 
 
 A melhor abordagem para fazer upload de arquivos para o AWS S3 dependerá das suas necessidades específicas. Ambas as abordagens têm vantagens e desvantagens, e a escolha dependerá dos seus requisitos de segurança, escalabilidade e complexidade do processo de upload.
