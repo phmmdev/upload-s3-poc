@@ -4,6 +4,8 @@
 
 **[App Intermediário]** https://betterprogramming.pub/aws-s3-buckets-with-python-tutorial-uploading-deleting-and-managing-the-files-in-buckets-dd90d4fd45fe
 
+**[App Intermediário - Exemplo]** https://medium.com/linkit-intecs/upload-and-view-files-in-amazon-s3-using-angular-spring-boot-325b118e7188
+
 **[Data Transfer, aprofundamento]** https://medium.com/@hatim.zahid/serialization-and-deserialization-how-data-travels-in-a-computer-network-13f61dc225c4 
 
 
